@@ -13,18 +13,17 @@
 | ![Devops](https://img.shields.io/badge/-Devops-black?style=flat)     | ![GitHub Action][gitHub-action]  ![Nginx](https://img.shields.io/badge/-Nginx-CEF1D1?style=flat&logo=nginx)  ![Docker](https://img.shields.io/badge/-Docker-cbe3f2?style=flat&logo=docker)                                                                                                                                                                    |
 | ![IDE](https://img.shields.io/badge/-IDE-black?style=flat)           | ![WebStorm](https://img.shields.io/badge/-WebStorm-3a3a3a?style=flat&logo=webstorm) ![PyCharm](https://img.shields.io/badge/-PyCharm-3a3a3a?style=flat&logo=pycharm) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code)                                                 |
 | ![Workflow](https://img.shields.io/badge/-Other-black?style=flat)           | ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)     [![Gitmoji][gitmoji]][gcw]                                                                                           |
-
-
 ---
 
 ## 📊 GitHub Analytics
+
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Markcus0526&theme=radical" alt="Profile Details">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markcus0526&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6584&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markcus0526&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8&exclude_repo=dotfiles&exclude_lang=dart,js,ts" alt="Top Languages">
+  [![Markcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Markcus0526&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6584&include_all_commits=true&count_private=true)](https://github.com)
 
-<img src="https://raw.githubusercontent.com/Markcus0526/Markcus0526/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Markcus0526/Markcus0526/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
