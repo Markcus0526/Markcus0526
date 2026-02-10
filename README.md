@@ -1,47 +1,144 @@
-## Hi there 👋
+# Trending Rust Repositories 🔥🦀
 
-<!--
-**Markcus0526/Markcus0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Project badges -->
+<p>
+  <img src="https://img.shields.io/github/stars/Markcus0526/Markcus0526?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/Markcus0526/Markcus0526?style=social" alt="GitHub forks">
+  <img src="https://img.shields.io/github/license/Markcus0526/Markcus0526" alt="License">
+  <img src="https://img.shields.io/github/languages/top/Markcus0526/Markcus0526" alt="Top language">
+  <img src="https://github.com/Markcus0526/Markcus0526/actions/workflows/update_readme.yml/badge.svg" alt="Workflow status">
+</p>
 
-Here are some ideas to get you started:
+A small Rust utility that fetches the most-starred Rust repositories and "agent"-related Rust repositories from GitHub and injects the results into this repository's README tables. The update runs automatically via a scheduled GitHub Action and can also be run locally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Trending Rust Repositories
+---
 
-## Top Trending Rust Repositories
+## 👋 About Me
+- Hi — I'm Markcus. I build small automation tools and enjoy working with Rust, APIs, and developer tooling.
+- This repository is a playful automation: a Rust program that keeps the "Trending Rust Repositories" section of this README fresh by querying GitHub and updating the tables daily.
 
-| Name | Developer | Stars | Description |
-|------|-----------|-------|-------------|
-| [rust](rust-lang/rust) | rust-lang | 110.2k | Empowering everyone to build reliable and efficient software. |
-| [rustdesk](rustdesk/rustdesk) | rustdesk | 107.2k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
-| [deno](denoland/deno) | denoland | 106.1k | A modern runtime for JavaScript and TypeScript. |
-| [tauri](tauri-apps/tauri) | tauri-apps | 102.5k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
-| [uv](astral-sh/uv) | astral-sh | 79.0k | An extremely fast Python package and project manager, written in Rust. |
-| [zed](zed-industries/zed) | zed-industries | 75.1k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
-| [union](unionlabs/union) | unionlabs | 74.3k | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. |
-| [alacritty](alacritty/alacritty) | alacritty | 62.4k | A cross-platform, OpenGL terminal emulator. |
-| [sway](FuelLabs/sway) | FuelLabs | 62.0k | 🌴 Empowering everyone to build reliable and efficient smart contracts. |
-| [rustlings](rust-lang/rustlings) | rust-lang | 61.8k | :crab: Small exercises to get you used to reading and writing Rust code! |
+---
 
-## Top Trending Rust Agent Repositories
+## 🧭 Core Expertise
+- 🦀 Rust: system-level and async programming
+- ⚙️ Automation: CI/CD and scheduled updates (GitHub Actions)
+- 🔌 Web APIs: HTTP clients, JSON parsing, integrations
+- 🛠️ Tooling: CLI utilities, tooling for developer productivity
+- 📦 Data handling: parsing, formatting, and generating documentation
 
-| Name | Developer | Stars | Description |
-|------|-----------|-------|-------------|
-| [codex](openai/codex) | openai | 59.8k | Lightweight coding agent that runs in your terminal |
-| [meilisearch](meilisearch/meilisearch) | meilisearch | 55.8k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
-| [tabby](TabbyML/tabby) | TabbyML | 32.9k | Self-hosted AI coding assistant |
-| [goose](block/goose) | block | 30.2k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
-| [qdrant](qdrant/qdrant) | qdrant | 28.7k | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
-| [chroma](chroma-core/chroma) | chroma-core | 26.0k | Open-source search and retrieval database for AI applications. |
-| [fhevm](zama-ai/fhevm) | zama-ai | 25.8k | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
-| [cube](cube-js/cube) | cube-js | 19.4k | 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics |
-| [screenpipe](screenpipe/screenpipe) | screenpipe | 16.8k | screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours. |
-| [burn](tracel-ai/burn) | tracel-ai | 14.3k | Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability. |
+---
+
+## 🧰 Technology Stack
+- Language: Rust (edition 2021)
+- Async runtime: tokio
+- HTTP client: reqwest (with JSON feature)
+- Serialization: serde / serde_json
+- CI: GitHub Actions (scheduled + workflow_dispatch)
+- Build system: Cargo
+
+Key files:
+- rust/Cargo.toml — project manifest and dependency list
+- rust/src/main.rs — main application (fetches GitHub Search API, updates README)
+- .github/workflows/update_readme.yml — scheduled workflow that runs cargo run and commits README changes
+
+Why these choices:
+- reqwest + tokio = robust async HTTP client for performing concurrent API calls.
+- serde = convenient, type-safe JSON (de)serialization.
+- GitHub Actions = simple scheduled automation in the same repository.
+
+---
+
+## ⚙️ How it works (summary)
+1. The Rust program calls the GitHub Search API for:
+   - top Rust repositories by stars
+   - Rust repositories related to agents/AI (search by keywords)
+2. It formats results into Markdown tables.
+3. It opens the repository README (the program expects the README at "../README.md" when run from the rust/ directory), inserts/updates the "Top Trending Rust Repositories" and "Top Trending Rust Agent Repositories" sections, and writes changes.
+4. The GitHub Action runs the program daily (cron at midnight) and commits/pushes updates.
+
+---
+
+## ▶️ Run locally — quickstart
+Prerequisites:
+- Rust toolchain (stable)
+- Network access to api.github.com
+- A GitHub token is NOT required for basic requests, but unauthenticated requests are subject to stricter rate limits (see Troubleshooting).
+
+Commands:
+1. Clone the repo and change into the directory that contains rust/ and README.md.
+2. From the root of the repository run:
+```bash
+# Ensure you are at the repo root
+cd rust
+cargo run --release
+```
+Notes:
+- The program writes to ../README.md (relative to rust/). Run cargo from the rust/ directory so the path resolves correctly.
+- If you prefer debugging builds, omit --release.
+
+Expected output:
+- The program prints "README.md updated successfully!" on success.
+- If run locally, check the README.md diff to review the modifications before committing.
+
+---
+
+## 🔁 CI / Automation
+- File: .github/workflows/update_readme.yml
+- The workflow:
+  - Checks out the repo
+  - Sets up Rust toolchain (stable)
+  - Runs the Rust program (cargo run in rust/)
+  - Commits and pushes README.md if there are changes
+- Schedule: daily at midnight (cron). Also supports manual runs via "Workflow dispatch".
+
+---
+
+## 📊 GitHub Analytics
+Live repository badges (dynamic):
+<p>
+  <img src="https://img.shields.io/github/stars/Markcus0526/Markcus0526" alt="Stars">
+  <img src="https://img.shields.io/github/forks/Markcus0526/Markcus0526" alt="Forks">
+  <img src="https://img.shields.io/github/issues/Markcus0526/Markcus0526" alt="Open issues">
+  <img src="https://img.shields.io/github/last-commit/Markcus0526/Markcus0526" alt="Last commit">
+</p>
+
+Note: The README contents (the trending tables) are generated programmatically by rust/src/main.rs. If you want to change the search query or formatting, edit that file and test locally.
+
+---
+
+## 🛠️ Troubleshooting & Tips
+- Rate limiting: Unauthenticated requests to the GitHub API have limited rate. If you encounter 403 responses, consider:
+  - Setting up a GitHub token and modifying the client to send an Authorization header (not currently implemented).
+  - Reducing frequency of requests during testing.
+- README path: The program opens "../README.md". If you move the rust/ directory or run cargo from a different working directory, the program may create or modify a different README path.
+- JSON schema mismatches: The program expects certain fields from the Search API. If GitHub changes the API responses, adjust structs in rust/src/main.rs.
+
+---
+
+## 🤝 Contributing
+- Contributions, suggestions, and fixes are welcome!
+- Suggested workflow:
+  - Fork this repository
+  - Create a feature branch
+  - Update rust/src/main.rs or README templates as needed
+  - Test locally: cd rust && cargo run
+  - Open a pull request with a clear description
+
+---
+
+## 📬 Connect With Me
+- GitHub: https://github.com/Markcus0526
+- Email: markcus (replace with your real email) — markcus@example.com
+- Twitter: https://twitter.com/yourhandle (replace with your handle)
+- LinkedIn: https://linkedin.com/in/yourprofile (replace with your profile)
+
+Feel free to open issues or PRs — I appreciate feedback and collaboration!
+
+---
+
+## ⚖️ License
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+---
+
+Thank you for visiting — happy hacking! ✨
