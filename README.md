@@ -26,9 +26,6 @@
 
 <img src="https://raw.githubusercontent.com/Markcus0526/Markcus0526/output/snake.svg" alt="Snake animation" />
 
-
-Note: The README contents (the trending tables) are generated programmatically by rust/src/main.rs. If you want to change the search query or formatting, edit that file and test locally.
-
 ---
 
 ## Top Trending Rust Repositories
