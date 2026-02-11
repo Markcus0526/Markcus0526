@@ -29,9 +29,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Markcus0526&theme=radical" alt="Profile Details">
-  
-  [![Markcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Markcus0526&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6584&include_all_commits=true&count_private=true)](https://github.com)
-
+ 
   <img src="https://raw.githubusercontent.com/Markcus0526/Markcus0526/output/snake.svg" alt="Snake animation" />
 </div>
 
