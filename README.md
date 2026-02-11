@@ -66,5 +66,5 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [cube](cube-js/cube) | cube-js | 19.4k | 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics |
 | [screenpipe](screenpipe/screenpipe) | screenpipe | 16.8k | screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours. |
 | [burn](tracel-ai/burn) | tracel-ai | 14.3k | Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability. |
-# Trending Rust Repositories
+
 
