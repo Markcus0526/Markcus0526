@@ -1,5 +1,5 @@
 # .github/workflows/update_readme.yml
-name: Update README
+name: Update rust trending repositories
 
 on:
   schedule:
@@ -9,6 +9,8 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:             # Add this block
+      contents: write        # This allows the push to succeed
     steps:
       - uses: actions/checkout@v3
       - uses: actions-rs/toolchain@v1

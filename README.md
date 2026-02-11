@@ -1,18 +1,28 @@
-# About Me 🔥🦀
+# 👨‍💻 Hi, I'm Markcus (@Markcus0526)
 
-## 👋 About Me
+**Discover your perfect home in our modern Development: Live, Grow, and Thrive...**
 
-- Hi — I'm Markcus, a full-stack developer.
+---
 
-## 🧰 Technology Stack
+## 🌟 Professional Summary
 
-| End                                                                  | Stack                                                                                                                                                                                                                                                                                                                       |
-| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Frontend](https://img.shields.io/badge/-Frontend-black?style=flat) | ![React](https://img.shields.io/badge/-React-52BAD7?style=flat&logo=react&logoColor=white) ![antd](https://img.shields.io/badge/-Ant_Design-0170fe?style=flat&logo=ant-design) ![Less](https://img.shields.io/badge/-Less-1d365d?style=flat&logo=less) ![umi](https://img.shields.io/badge/-umi-4569d4?style=flat&logo=umi) |
-| ![Backend](https://img.shields.io/badge/-Backend-black?style=flat)   | ![Node](https://img.shields.io/badge/-Node-white?style=flat&logo=node.js) ![Egg](https://img.shields.io/badge/-Egg.js-22ab28?style=flat) ![mongoDB](https://img.shields.io/badge/-mongoDB-white?style=flat&logo=mongodb)                                                                                                                                                                   |
-| ![Devops](https://img.shields.io/badge/-Devops-black?style=flat)     | ![GitHub Action][gitHub-action]  ![Nginx](https://img.shields.io/badge/-Nginx-CEF1D1?style=flat&logo=nginx)  ![Docker](https://img.shields.io/badge/-Docker-cbe3f2?style=flat&logo=docker)                                                                                                                                                                    |
-| ![IDE](https://img.shields.io/badge/-IDE-black?style=flat)           | ![WebStorm](https://img.shields.io/badge/-WebStorm-3a3a3a?style=flat&logo=webstorm) ![PyCharm](https://img.shields.io/badge/-PyCharm-3a3a3a?style=flat&logo=pycharm) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code)                                                 |
-| ![Workflow](https://img.shields.io/badge/-Other-black?style=flat)           | ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)     [![Gitmoji][gitmoji]][gcw]                                                                                           |
+I am a **Full-Stack Engineer** passionate about building scalable, secure, and socially impactful software. My expertise ranges from **High-Performance Backend Systems** in Go and Rust to **Interactive Frontend Dashboards** and **Secure Mobile Environments**.
+
+- 🏥 **Healthcare:** Architecting [ife-hospital](https://github.com) to streamline clinical workflows.
+- 🚗 **Community:** Building [dmy-carpooling](https://github.com) for sustainable urban mobility.
+- 🛡️ **Privacy:** Developing [ife-appgo-vpn](https://github.com) for secure, high-speed networking.
+- 🧒 **Education:** Creating [ife-kidpower-mobile](https://github.com) for safe digital learning.
+
+---
+
+## 🛠️ Core Technology Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Go](https://img.shields.io) ![Rust](https://img.shields.io) ![Python](https://img.shields.io) ![Java](https://img.shields.io) |
+| **Frontend** | ![Next.js](https://img.shields.io) ![React](https://img.shields.io) ![AntDesign](https://img.shields.io) |
+| **Cloud/Ops** | ![Docker](https://img.shields.io) ![K8s](https://img.shields.io) ![AWS](https://img.shields.io) |
+
 ---
 
 ## 📊 GitHub Analytics

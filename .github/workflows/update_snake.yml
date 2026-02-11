@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Update snake animation
 
 on:
   schedule:
