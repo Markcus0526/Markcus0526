@@ -19,9 +19,9 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Go](https://img.shields.io) ![Rust](https://img.shields.io) ![Python](https://img.shields.io) ![Java](https://img.shields.io) |
-| **Frontend** | ![Next.js](https://img.shields.io) ![React](https://img.shields.io) ![AntDesign](https://img.shields.io) |
-| **Cloud/Ops** | ![Docker](https://img.shields.io) ![K8s](https://img.shields.io) ![AWS](https://img.shields.io) |
+| **Languages** | ![Go](https://img.shields.io/badge/Go-go?style=plastic&logo=go&logoColor=white&color=red) ![Rust](https://img.shields.io/badge/Rust-rust?style=plastic&logo=rust) ![Python](https://img.shields.io/badge/Python-python?style=plastic&logo=Python&logoColor=white&color=blue) ![Java](https://img.shields.io/badge/Java-java?style=plastic&logo=Java&logoColor=white&color=green) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-nextjs?style=plastic&logo=Next.js&logoColor=white&color=green) ![React](https://img.shields.io/badge/React-react?style=plastic&logo=React&logoColor=white&color=blue) ![AntDesign](https://img.shields.io/badge/AntiDesign-antidesign?style=plastic&logo=AntiDesign&logoColor=white&color=red) |
+| **Cloud/Ops** | ![Docker](https://img.shields.io/badge/Docker-docker?style=plastic&logo=Docker&logoColor=white&color=blue) ![K8s](https://img.shields.io/badge/Kubernetes-kubernetes?style=plastic&logo=Kubernetes&logoColor=white&color=red) ![AWS](https://img.shields.io/badge/AWS-aws?style=plastic&logo=Aws&logoColor=white&color=blue) |
 
 ---
 
