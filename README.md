@@ -8,10 +8,10 @@
 
 I am a **Full-Stack Engineer** passionate about building scalable, secure, and socially impactful software. My expertise ranges from **High-Performance Backend Systems** in Go and Rust to **Interactive Frontend Dashboards** and **Secure Mobile Environments**.
 
-- 🏥 **Healthcare:** Architecting [ife-hospital](https://github.com) to streamline clinical workflows.
-- 🚗 **Community:** Building [dmy-carpooling](https://github.com) for sustainable urban mobility.
-- 🛡️ **Privacy:** Developing [ife-appgo-vpn](https://github.com) for secure, high-speed networking.
-- 🧒 **Education:** Creating [ife-kidpower-mobile](https://github.com) for safe digital learning.
+- 🏥 **Healthcare:** Architecting [ife-hospital](https://github.com/Markcus0526/ife-hospital-webrtc-web) to streamline clinical workflows.
+- 🚗 **Community:** Building [dmy-carpooling](https://github.com/Markcus0526/dmy-carpooling-platform) for sustainable urban mobility.
+- 🛡️ **Privacy:** Developing [ife-appgo-vpn](https://github.com/Markcus0526/ife-appgo-vpn) for secure, high-speed networking.
+- 🧒 **Education:** Creating [ife-kidpower-mobile](https://github.com/Markcus0526/ife-kidpower-mobile) for safe digital learning.
 
 ---
 
