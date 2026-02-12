@@ -1,8 +1,9 @@
 // src/main.rs
 use reqwest::Client;
 use serde::{Deserialize, Serialize};
-use std::fs::{File, OpenOptions};
-use std::io::{Read, Write, Seek, SeekFrom}; 
+use std::fs::{OpenOptions};
+use std::io::{Read, Write, Seek}; 
+use chrono::Local;
 
 #[derive(Debug, Serialize, Deserialize)]
 struct Repository {
@@ -71,47 +72,50 @@ fn append_to_readme(trending_repos: Vec<Repository>, agent_repos: Vec<Repository
     let mut content = String::new();
     file.read_to_string(&mut content)?;
 
-    // Check if we need to add the header
-    if !content.contains("# Trending Rust Repositories") {
-        content.push_str("# Trending Rust Repositories\n\n");
+    let header = "## Rust Trending";
+
+    // If you want to clear everything AFTER the header to refresh the list:
+    if let Some(start_index) = content.find(header) {
+        let after_header = start_index;
+        content.truncate(after_header); // Removes everything after the header
     }
 
+    content.push_str(&format!("{} ({})\n\n", header, Local::now().format("%Y-%m-%d %H:%M:%S")));
+
+    let git_prefix = "https://www.github.com/";
+
     // Append top Rust repositories
-    if !content.contains("## Top Trending Rust Repositories") {
-        content.push_str("## Top Trending Rust Repositories\n\n");
-        content.push_str("| Name | Developer | Stars | Description |\n");
-        content.push_str("|------|-----------|-------|-------------|\n");
-        
-        for repo in trending_repos {
-            let description = repo.description.unwrap_or_default();
-            content.push_str(&format!(
-                "| [{}]({}) | {} | {} | {} |\n",
-                repo.name,
-                repo.full_name,
-                repo.owner.login,
-                format_stars(repo.stargazers_count),
-                description
-            ));
-        }
+    content.push_str("### Top Trending Rust Repositories\n\n");
+    content.push_str("| Name | Developer | Stars | Description |\n");
+    content.push_str("|------|-----------|-------|-------------|\n");
+    
+    for repo in trending_repos {
+        let description = repo.description.unwrap_or_default();
+        content.push_str(&format!(
+            "| [{}]({}) | {} | {} | {} |\n",
+            repo.name,
+            git_prefix.to_owned() + &repo.full_name,
+            repo.owner.login,
+            format_stars(repo.stargazers_count),
+            description
+        ));
     }
     
     // Append Rust agent repositories
-    if !content.contains("## Top Trending Rust Agent Repositories") {
-        content.push_str("\n## Top Trending Rust Agent Repositories\n\n");
-        content.push_str("| Name | Developer | Stars | Description |\n");
-        content.push_str("|------|-----------|-------|-------------|\n");
-        
-        for repo in agent_repos {
-            let description = repo.description.unwrap_or_default();
-            content.push_str(&format!(
-                "| [{}]({}) | {} | {} | {} |\n",
-                repo.name,
-                repo.full_name,
-                repo.owner.login,
-                format_stars(repo.stargazers_count),
-                description
-            ));
-        }
+    content.push_str("\n### Top Trending Rust Agent Repositories\n\n");
+    content.push_str("| Name | Developer | Stars | Description |\n");
+    content.push_str("|------|-----------|-------|-------------|\n");
+    
+    for repo in agent_repos {
+        let description = repo.description.unwrap_or_default();
+        content.push_str(&format!(
+            "| [{}]({}) | {} | {} | {} |\n",
+            repo.name,
+            git_prefix.to_owned() + &repo.full_name,
+            repo.owner.login,
+            format_stars(repo.stargazers_count),
+            description
+        ));
     }
     
     // Truncate and write back to file
