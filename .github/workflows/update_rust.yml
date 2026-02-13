@@ -20,13 +20,19 @@ jobs:
       - name: Run Rust program
         run: cargo run
         working-directory: rust
-      - name: Commit changes
+      - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          # Only commit if there are changes
+          # Only commit if changes exist
           git diff --quiet && git diff --staged --quiet || git commit -m "Update trending Rust repositories"
-          # Pull with rebase to avoid merge conflicts
-          git pull --rebase origin main
-          git push
+
+          # 1. Fetch the latest from remote
+          git fetch origin main
+
+          # 2. Rebase and favor the local "Trending" changes if a conflict occurs
+          git rebase -X ours origin/main || git rebase --abort
+
+          # 3. Push the clean result
+          git push origin main
