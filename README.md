@@ -35,7 +35,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-02-22 01:29:49)
+## Rust Trending (2026-02-23 01:29:16)
 
 ### Top Trending Rust Repositories
 
@@ -46,7 +46,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [deno](https://www.github.com/denoland/deno) | denoland | 106.3k | A modern runtime for JavaScript and TypeScript. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 103.1k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
 | [uv](https://www.github.com/astral-sh/uv) | astral-sh | 79.6k | An extremely fast Python package and project manager, written in Rust. |
-| [zed](https://www.github.com/zed-industries/zed) | zed-industries | 75.7k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
+| [zed](https://www.github.com/zed-industries/zed) | zed-industries | 75.8k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
 | [union](https://www.github.com/unionlabs/union) | unionlabs | 74.3k | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. |
 | [alacritty](https://www.github.com/alacritty/alacritty) | alacritty | 62.6k | A cross-platform, OpenGL terminal emulator. |
 | [sway](https://www.github.com/FuelLabs/sway) | FuelLabs | 61.9k | 🌴 Empowering everyone to build reliable and efficient smart contracts. |
@@ -56,7 +56,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [codex](https://www.github.com/openai/codex) | openai | 61.4k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 61.5k | Lightweight coding agent that runs in your terminal |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 56.0k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
 | [tabby](https://www.github.com/TabbyML/tabby) | TabbyML | 32.9k | Self-hosted AI coding assistant |
 | [goose](https://www.github.com/block/goose) | block | 30.9k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
@@ -65,4 +65,4 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [fhevm](https://www.github.com/zama-ai/fhevm) | zama-ai | 25.8k | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
 | [vibe-kanban](https://www.github.com/BloopAI/vibe-kanban) | BloopAI | 21.6k | Get 10X more out of Claude Code, Codex or any coding agent |
 | [cube](https://www.github.com/cube-js/cube) | cube-js | 19.5k | 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics |
-| [screenpipe](https://www.github.com/screenpipe/screenpipe) | screenpipe | 16.9k | screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours. |
+| [zeroclaw](https://www.github.com/zeroclaw-labs/zeroclaw) | zeroclaw-labs | 17.1k | Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 |
