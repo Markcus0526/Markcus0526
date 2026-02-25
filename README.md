@@ -35,34 +35,34 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-02-24 01:27:35)
+## Rust Trending (2026-02-25 01:30:07)
 
 ### Top Trending Rust Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [rust](https://www.github.com/rust-lang/rust) | rust-lang | 110.6k | Empowering everyone to build reliable and efficient software. |
-| [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 108.0k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [rust](https://www.github.com/rust-lang/rust) | rust-lang | 110.7k | Empowering everyone to build reliable and efficient software. |
+| [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 108.1k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 106.3k | A modern runtime for JavaScript and TypeScript. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 103.2k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
-| [uv](https://www.github.com/astral-sh/uv) | astral-sh | 79.7k | An extremely fast Python package and project manager, written in Rust. |
+| [uv](https://www.github.com/astral-sh/uv) | astral-sh | 79.8k | An extremely fast Python package and project manager, written in Rust. |
 | [zed](https://www.github.com/zed-industries/zed) | zed-industries | 75.9k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
 | [union](https://www.github.com/unionlabs/union) | unionlabs | 74.3k | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. |
-| [alacritty](https://www.github.com/alacritty/alacritty) | alacritty | 62.6k | A cross-platform, OpenGL terminal emulator. |
-| [rustlings](https://www.github.com/rust-lang/rustlings) | rust-lang | 61.9k | :crab: Small exercises to get you used to reading and writing Rust code! |
+| [alacritty](https://www.github.com/alacritty/alacritty) | alacritty | 62.7k | A cross-platform, OpenGL terminal emulator. |
+| [rustlings](https://www.github.com/rust-lang/rustlings) | rust-lang | 62.0k | :crab: Small exercises to get you used to reading and writing Rust code! |
 | [sway](https://www.github.com/FuelLabs/sway) | FuelLabs | 61.9k | 🌴 Empowering everyone to build reliable and efficient smart contracts. |
 
 ### Top Trending Rust Agent Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [codex](https://www.github.com/openai/codex) | openai | 61.6k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 61.8k | Lightweight coding agent that runs in your terminal |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 56.1k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
 | [tabby](https://www.github.com/TabbyML/tabby) | TabbyML | 32.9k | Self-hosted AI coding assistant |
-| [goose](https://www.github.com/block/goose) | block | 31.0k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
-| [qdrant](https://www.github.com/qdrant/qdrant) | qdrant | 29.0k | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
+| [goose](https://www.github.com/block/goose) | block | 31.1k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [qdrant](https://www.github.com/qdrant/qdrant) | qdrant | 29.1k | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
 | [chroma](https://www.github.com/chroma-core/chroma) | chroma-core | 26.3k | Open-source search and retrieval database for AI applications. |
 | [fhevm](https://www.github.com/zama-ai/fhevm) | zama-ai | 25.8k | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
-| [vibe-kanban](https://www.github.com/BloopAI/vibe-kanban) | BloopAI | 21.7k | Get 10X more out of Claude Code, Codex or any coding agent |
+| [vibe-kanban](https://www.github.com/BloopAI/vibe-kanban) | BloopAI | 21.8k | Get 10X more out of Claude Code, Codex or any coding agent |
 | [cube](https://www.github.com/cube-js/cube) | cube-js | 19.5k | 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics |
-| [zeroclaw](https://www.github.com/zeroclaw-labs/zeroclaw) | zeroclaw-labs | 17.7k | Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 |
+| [zeroclaw](https://www.github.com/zeroclaw-labs/zeroclaw) | zeroclaw-labs | 18.6k | Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 |
