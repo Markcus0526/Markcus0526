@@ -23,17 +23,11 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ### 🚀 Frameworks & Libraries
 
+### 📱 Mobile & Frontend
+
+### 🗄️ Database & Infrastructure
+
 ### 🛠️ Tools & DevOps
-
----
-
-## 🛠️ Core Technology Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** |  ![Java](https://img.shields.io/badge/Java-java?style=plastic&logo=Java&logoColor=white&color=green) ![Rust](https://img.shields.io/badge/Rust-rust?style=plastic&logo=rust) ![Python](https://img.shields.io/badge/Python-python?style=plastic&logo=Python&logoColor=white&color=blue) ![Go](https://img.shields.io/badge/Go-go?style=plastic&logo=go&logoColor=white&color=red) |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-nextjs?style=plastic&logo=Next.js&logoColor=white&color=green) ![React](https://img.shields.io/badge/React-react?style=plastic&logo=React&logoColor=white&color=blue) ![AntDesign](https://img.shields.io/badge/AntiDesign-antidesign?style=plastic&logo=AntiDesign&logoColor=white&color=red) |
-| **Cloud/Ops** | ![Docker](https://img.shields.io/badge/Docker-docker?style=plastic&logo=Docker&logoColor=white&color=blue) ![K8s](https://img.shields.io/badge/Kubernetes-kubernetes?style=plastic&logo=Kubernetes&logoColor=white&color=red) ![AWS](https://img.shields.io/badge/AWS-aws?style=plastic&logo=Aws&logoColor=white&color=blue) |
 
 ---
 
