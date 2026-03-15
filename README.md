@@ -17,17 +17,19 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 ## 🛠️ Core Technology Stack
 
 ### 💻 Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,cs,css,flutter,go,html,java,js,kotlin,perl,php,powershell,qt,rust,scala,swift,ts,&perline=8)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,cs,css,flutter,go,html,java,js,kotlin,perl,php,powershell,qt,rust,scala,swift,ts,&perline=10)](https://skillicons.dev)
 
 ### 🚀 Frameworks & Libraries
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=java,rust,py,go,c,cpp,cs,css,flutter,html,js,jquery,kotlin,perl,qt,scala,ts,&perline=8)](https://skillicons.dev)
-
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=babel,bootstrap,django,dotnet,elasticsearch,electron,express,gradle,ai,jquery,kafka,less,linux,maven,nextjs,netlify,nodejs,npm,rabbitmq,react,sass,spring,tailwnd,threejs,wasm,webpack,&perline10)](https://skillicons.dev)
 
 ### 📱 Mobile & Frontend
+[![Mobile & Frontend](https://skillicons.dev/icons?i=&perline=8)](https://skillicons.dev)
 
 ### 🗄️ Database & Infrastructure
+[![Database & Infrastructure](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,&perline=8)](https://skillicons.dev)
 
 ### 🛠️ Tools & DevOps
+[![Tools & DevOps](https://skillicons.dev/icons?i=anaconda,aws,bash,bitbucket,clion,cmake,docker,eclipse,figma,git,gitlab,idea,kubernates,nginx,phpstorm,postman,pycharm,rider,ubuntu,vim,vscode,webstorm,windows,yarn,&perline=8)](https://skillicons.dev)
 
 ---
 
