@@ -19,6 +19,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 ### 💻 Programming Languages
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### 🚀 Frameworks & Libraries
 
