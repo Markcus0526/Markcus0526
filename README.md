@@ -14,10 +14,13 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 - 🧒 **Education:** Creating [ife-kidpower-mobile](https://github.com/Markcus0526/ife-kidpower-mobile) for safe digital learning.
 
 ---
+## 🛠️ Core Technology Stack
 
-💻 Programming Languages
-🚀 Frameworks & Libraries
-🛠️ Tools & DevOps
+### 💻 Programming Languages
+
+### 🚀 Frameworks & Libraries
+
+### 🛠️ Tools & DevOps
 
 ---
 
