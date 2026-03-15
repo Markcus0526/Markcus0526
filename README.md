@@ -15,6 +15,12 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
+💻 Programming Languages
+🚀 Frameworks & Libraries
+🛠️ Tools & DevOps
+
+---
+
 ## 🛠️ Core Technology Stack
 
 | Category | Technologies |
