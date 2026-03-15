@@ -17,10 +17,11 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 ## 🛠️ Core Technology Stack
 
 ### 💻 Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=java,rust,py,go,c,cpp,cs,css,flutter,html,js,jquery,kotlin,perl,qt,scala,ts,&perline=8)](https://skillicons.dev)
-
+[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,cs,css,flutter,go,html,java,js,kotlin,perl,php,powershell,qt,rust,scala,swift,ts,&perline=8)](https://skillicons.dev)
 
 ### 🚀 Frameworks & Libraries
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=java,rust,py,go,c,cpp,cs,css,flutter,html,js,jquery,kotlin,perl,qt,scala,ts,&perline=8)](https://skillicons.dev)
+
 
 ### 📱 Mobile & Frontend
 
