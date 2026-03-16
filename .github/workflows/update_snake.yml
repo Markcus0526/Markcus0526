@@ -2,7 +2,7 @@ name: Update snake animation
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 2,10,18 * * *" # Runs at 00:00, 08:00, and 16:00 UTC
 
   workflow_dispatch:
 
