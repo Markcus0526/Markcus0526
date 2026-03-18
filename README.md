@@ -40,20 +40,20 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-03-18 08:58:03)
+## Rust Trending (2026-03-18 17:08:48)
 
 ### Top Trending Rust Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 111.3k | Empowering everyone to build reliable and efficient software. |
-| [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 109.5k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 109.6k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 106.4k | A modern runtime for JavaScript and TypeScript. |
-| [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 104.2k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
-| [uv](https://www.github.com/astral-sh/uv) | astral-sh | 81.2k | An extremely fast Python package and project manager, written in Rust. |
+| [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 104.3k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
+| [uv](https://www.github.com/astral-sh/uv) | astral-sh | 81.3k | An extremely fast Python package and project manager, written in Rust. |
 | [zed](https://www.github.com/zed-industries/zed) | zed-industries | 77.4k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
 | [union](https://www.github.com/unionlabs/union) | unionlabs | 74.2k | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. |
-| [codex](https://www.github.com/openai/codex) | openai | 66.0k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 66.1k | Lightweight coding agent that runs in your terminal |
 | [alacritty](https://www.github.com/alacritty/alacritty) | alacritty | 63.0k | A cross-platform, OpenGL terminal emulator. |
 | [rustlings](https://www.github.com/rust-lang/rustlings) | rust-lang | 62.2k | :crab: Small exercises to get you used to reading and writing Rust code! |
 
@@ -61,7 +61,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [codex](https://www.github.com/openai/codex) | openai | 66.0k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 66.1k | Lightweight coding agent that runs in your terminal |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 56.5k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
 | [goose](https://www.github.com/block/goose) | block | 33.2k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 | [tabby](https://www.github.com/TabbyML/tabby) | TabbyML | 33.0k | Self-hosted AI coding assistant |
