@@ -40,17 +40,17 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-03-21 08:40:35)
+## Rust Trending (2026-03-21 16:36:51)
 
 ### Top Trending Rust Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 111.4k | Empowering everyone to build reliable and efficient software. |
-| [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 109.7k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 109.8k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 106.4k | A modern runtime for JavaScript and TypeScript. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 104.4k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
-| [uv](https://www.github.com/astral-sh/uv) | astral-sh | 81.6k | An extremely fast Python package and project manager, written in Rust. |
+| [uv](https://www.github.com/astral-sh/uv) | astral-sh | 81.7k | An extremely fast Python package and project manager, written in Rust. |
 | [zed](https://www.github.com/zed-industries/zed) | zed-industries | 77.6k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
 | [union](https://www.github.com/unionlabs/union) | unionlabs | 74.2k | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. |
 | [codex](https://www.github.com/openai/codex) | openai | 66.7k | Lightweight coding agent that runs in your terminal |
@@ -66,8 +66,8 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [goose](https://www.github.com/block/goose) | block | 33.4k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 | [tabby](https://www.github.com/TabbyML/tabby) | TabbyML | 33.0k | Self-hosted AI coding assistant |
 | [rust-course](https://www.github.com/sunface/rust-course) | sunface | 30.1k | 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book  |
-| [qdrant](https://www.github.com/qdrant/qdrant) | qdrant | 29.7k | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
-| [zeroclaw](https://www.github.com/zeroclaw-labs/zeroclaw) | zeroclaw-labs | 28.2k | Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀 |
-| [chroma](https://www.github.com/chroma-core/chroma) | chroma-core | 26.7k | Data infrastructure for AI |
+| [qdrant](https://www.github.com/qdrant/qdrant) | qdrant | 29.8k | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
+| [zeroclaw](https://www.github.com/zeroclaw-labs/zeroclaw) | zeroclaw-labs | 28.3k | Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀 |
+| [chroma](https://www.github.com/chroma-core/chroma) | chroma-core | 26.8k | Data infrastructure for AI |
 | [fhevm](https://www.github.com/zama-ai/fhevm) | zama-ai | 25.7k | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
-| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 23.9k | Browser automation CLI for AI agents |
+| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 24.0k | Browser automation CLI for AI agents |
