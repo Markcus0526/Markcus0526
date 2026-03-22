@@ -40,7 +40,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-03-22 02:43:50)
+## Rust Trending (2026-03-22 08:41:24)
 
 ### Top Trending Rust Repositories
 
@@ -48,7 +48,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 |------|-----------|-------|-------------|
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 111.4k | Empowering everyone to build reliable and efficient software. |
 | [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 109.8k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
-| [deno](https://www.github.com/denoland/deno) | denoland | 106.4k | A modern runtime for JavaScript and TypeScript. |
+| [deno](https://www.github.com/denoland/deno) | denoland | 106.5k | A modern runtime for JavaScript and TypeScript. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 104.5k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
 | [uv](https://www.github.com/astral-sh/uv) | astral-sh | 81.7k | An extremely fast Python package and project manager, written in Rust. |
 | [zed](https://www.github.com/zed-industries/zed) | zed-industries | 77.6k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
@@ -70,4 +70,4 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [zeroclaw](https://www.github.com/zeroclaw-labs/zeroclaw) | zeroclaw-labs | 28.3k | Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀 |
 | [chroma](https://www.github.com/chroma-core/chroma) | chroma-core | 26.8k | Data infrastructure for AI |
 | [fhevm](https://www.github.com/zama-ai/fhevm) | zama-ai | 25.7k | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
-| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 24.0k | Browser automation CLI for AI agents |
+| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 24.1k | Browser automation CLI for AI agents |
