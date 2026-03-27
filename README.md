@@ -40,18 +40,18 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-03-26 17:09:49)
+## Rust Trending (2026-03-27 02:50:25)
 
 ### Top Trending Rust Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 111.5k | Empowering everyone to build reliable and efficient software. |
-| [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 110.0k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 110.1k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 106.5k | A modern runtime for JavaScript and TypeScript. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 104.7k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
 | [uv](https://www.github.com/astral-sh/uv) | astral-sh | 82.1k | An extremely fast Python package and project manager, written in Rust. |
-| [zed](https://www.github.com/zed-industries/zed) | zed-industries | 77.9k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
+| [zed](https://www.github.com/zed-industries/zed) | zed-industries | 78.0k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
 | [union](https://www.github.com/unionlabs/union) | unionlabs | 74.2k | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. |
 | [codex](https://www.github.com/openai/codex) | openai | 67.8k | Lightweight coding agent that runs in your terminal |
 | [alacritty](https://www.github.com/alacritty/alacritty) | alacritty | 63.1k | A cross-platform, OpenGL terminal emulator. |
@@ -70,4 +70,4 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [zeroclaw](https://www.github.com/zeroclaw-labs/zeroclaw) | zeroclaw-labs | 28.9k | Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀 |
 | [chroma](https://www.github.com/chroma-core/chroma) | chroma-core | 26.9k | Data infrastructure for AI |
 | [fhevm](https://www.github.com/zama-ai/fhevm) | zama-ai | 25.6k | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
-| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 25.0k | Browser automation CLI for AI agents |
+| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 25.1k | Browser automation CLI for AI agents |
