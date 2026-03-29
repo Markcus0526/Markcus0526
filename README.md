@@ -40,7 +40,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-03-29 08:49:45)
+## Rust Trending (2026-03-29 16:41:59)
 
 ### Top Trending Rust Repositories
 
@@ -53,7 +53,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [uv](https://www.github.com/astral-sh/uv) | astral-sh | 82.2k | An extremely fast Python package and project manager, written in Rust. |
 | [zed](https://www.github.com/zed-industries/zed) | zed-industries | 78.1k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
 | [union](https://www.github.com/unionlabs/union) | unionlabs | 74.2k | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. |
-| [codex](https://www.github.com/openai/codex) | openai | 68.2k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 68.3k | Lightweight coding agent that runs in your terminal |
 | [alacritty](https://www.github.com/alacritty/alacritty) | alacritty | 63.2k | A cross-platform, OpenGL terminal emulator. |
 | [rustlings](https://www.github.com/rust-lang/rustlings) | rust-lang | 62.3k | :crab: Small exercises to get you used to reading and writing Rust code! |
 
@@ -61,7 +61,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [codex](https://www.github.com/openai/codex) | openai | 68.2k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 68.3k | Lightweight coding agent that runs in your terminal |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 56.8k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
 | [goose](https://www.github.com/block/goose) | block | 33.7k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 | [tabby](https://www.github.com/TabbyML/tabby) | TabbyML | 33.2k | Self-hosted AI coding assistant |
@@ -69,5 +69,5 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [qdrant](https://www.github.com/qdrant/qdrant) | qdrant | 29.9k | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
 | [zeroclaw](https://www.github.com/zeroclaw-labs/zeroclaw) | zeroclaw-labs | 29.1k | Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀 |
 | [chroma](https://www.github.com/chroma-core/chroma) | chroma-core | 27.0k | Data infrastructure for AI |
-| [fhevm](https://www.github.com/zama-ai/fhevm) | zama-ai | 25.6k | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
 | [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 25.6k | Browser automation CLI for AI agents |
+| [fhevm](https://www.github.com/zama-ai/fhevm) | zama-ai | 25.6k | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
