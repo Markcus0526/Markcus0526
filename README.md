@@ -40,28 +40,28 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-04-01 09:13:57)
+## Rust Trending (2026-04-01 17:02:22)
 
 ### Top Trending Rust Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 111.6k | Empowering everyone to build reliable and efficient software. |
-| [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 110.3k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
-| [deno](https://www.github.com/denoland/deno) | denoland | 106.4k | A modern runtime for JavaScript and TypeScript. |
+| [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 110.4k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [claw-code](https://www.github.com/instructkr/claw-code) | instructkr | 108.6k | The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. |
+| [deno](https://www.github.com/denoland/deno) | denoland | 106.5k | A modern runtime for JavaScript and TypeScript. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 104.8k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
-| [claw-code](https://www.github.com/instructkr/claw-code) | instructkr | 91.5k | The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools that make real things done. Now writing in Rust using oh-my-codex. |
 | [uv](https://www.github.com/astral-sh/uv) | astral-sh | 82.4k | An extremely fast Python package and project manager, written in Rust. |
 | [zed](https://www.github.com/zed-industries/zed) | zed-industries | 78.3k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
 | [union](https://www.github.com/unionlabs/union) | unionlabs | 74.2k | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. |
-| [codex](https://www.github.com/openai/codex) | openai | 70.8k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 71.4k | Lightweight coding agent that runs in your terminal |
 | [alacritty](https://www.github.com/alacritty/alacritty) | alacritty | 63.2k | A cross-platform, OpenGL terminal emulator. |
 
 ### Top Trending Rust Agent Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [codex](https://www.github.com/openai/codex) | openai | 70.8k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 71.4k | Lightweight coding agent that runs in your terminal |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 56.9k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
 | [goose](https://www.github.com/block/goose) | block | 33.9k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 | [tabby](https://www.github.com/TabbyML/tabby) | TabbyML | 33.3k | Self-hosted AI coding assistant |
