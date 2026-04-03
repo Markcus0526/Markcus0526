@@ -40,34 +40,34 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-04-03 09:02:02)
+## Rust Trending (2026-04-03 16:49:45)
 
 ### Top Trending Rust Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 156.2k | [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. |
+| [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 160.2k | [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. |
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 111.7k | Empowering everyone to build reliable and efficient software. |
 | [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 110.5k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 106.5k | A modern runtime for JavaScript and TypeScript. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 104.9k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
-| [uv](https://www.github.com/astral-sh/uv) | astral-sh | 82.5k | An extremely fast Python package and project manager, written in Rust. |
+| [uv](https://www.github.com/astral-sh/uv) | astral-sh | 82.6k | An extremely fast Python package and project manager, written in Rust. |
 | [zed](https://www.github.com/zed-industries/zed) | zed-industries | 78.4k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
 | [union](https://www.github.com/unionlabs/union) | unionlabs | 74.2k | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. |
-| [codex](https://www.github.com/openai/codex) | openai | 72.8k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 72.9k | Lightweight coding agent that runs in your terminal |
 | [alacritty](https://www.github.com/alacritty/alacritty) | alacritty | 63.2k | A cross-platform, OpenGL terminal emulator. |
 
 ### Top Trending Rust Agent Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [codex](https://www.github.com/openai/codex) | openai | 72.8k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 72.9k | Lightweight coding agent that runs in your terminal |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 56.9k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
-| [goose](https://www.github.com/block/goose) | block | 34.3k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [goose](https://www.github.com/block/goose) | block | 34.6k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 | [tabby](https://www.github.com/TabbyML/tabby) | TabbyML | 33.3k | Self-hosted AI coding assistant |
 | [rust-course](https://www.github.com/sunface/rust-course) | sunface | 30.2k | 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book  |
 | [qdrant](https://www.github.com/qdrant/qdrant) | qdrant | 30.0k | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
 | [zeroclaw](https://www.github.com/zeroclaw-labs/zeroclaw) | zeroclaw-labs | 29.3k | Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀 |
 | [chroma](https://www.github.com/chroma-core/chroma) | chroma-core | 27.1k | Data infrastructure for AI |
-| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 26.4k | Browser automation CLI for AI agents |
+| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 26.5k | Browser automation CLI for AI agents |
 | [fhevm](https://www.github.com/zama-ai/fhevm) | zama-ai | 25.4k | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
