@@ -40,14 +40,14 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-04-19 09:00:33)
+## Rust Trending (2026-04-19 16:50:29)
 
 ### Top Trending Rust Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 186.1k | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. |
-| [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 112.2k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 186.2k | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. |
+| [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 112.3k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 112.1k | Empowering everyone to build reliable and efficient software. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 106.5k | A modern runtime for JavaScript and TypeScript. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 105.6k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
@@ -68,6 +68,6 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [qdrant](https://www.github.com/qdrant/qdrant) | qdrant | 30.4k | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
 | [zeroclaw](https://www.github.com/zeroclaw-labs/zeroclaw) | zeroclaw-labs | 30.3k | Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀 |
 | [rust-course](https://www.github.com/sunface/rust-course) | sunface | 30.3k | 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book  |
-| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 29.7k | Browser automation CLI for AI agents |
-| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 29.5k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 29.8k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 29.8k | Browser automation CLI for AI agents |
 | [chroma](https://www.github.com/chroma-core/chroma) | chroma-core | 27.5k | Data infrastructure for AI |
