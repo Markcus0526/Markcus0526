@@ -40,13 +40,13 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-04-25 16:51:38)
+## Rust Trending (2026-04-26 03:31:17)
 
 ### Top Trending Rust Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 188.3k | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. |
+| [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 188.4k | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. |
 | [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 112.9k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 112.3k | Empowering everyone to build reliable and efficient software. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 106.5k | A modern runtime for JavaScript and TypeScript. |
@@ -63,8 +63,8 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 |------|-----------|-------|-------------|
 | [codex](https://www.github.com/openai/codex) | openai | 77.9k | Lightweight coding agent that runs in your terminal |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 57.3k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
-| [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 43.2k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
-| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 35.3k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 43.3k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 35.6k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 | [tabby](https://www.github.com/TabbyML/tabby) | TabbyML | 33.5k | Self-hosted AI coding assistant |
 | [qdrant](https://www.github.com/qdrant/qdrant) | qdrant | 30.7k | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
 | [zeroclaw](https://www.github.com/zeroclaw-labs/zeroclaw) | zeroclaw-labs | 30.6k | Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀 |
