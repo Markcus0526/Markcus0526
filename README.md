@@ -40,7 +40,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-05-02 03:25:05)
+## Rust Trending (2026-05-02 09:12:31)
 
 ### Top Trending Rust Repositories
 
@@ -53,7 +53,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 106.1k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
 | [uv](https://www.github.com/astral-sh/uv) | astral-sh | 84.3k | An extremely fast Python package and project manager, written in Rust. |
 | [zed](https://www.github.com/zed-industries/zed) | zed-industries | 81.2k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
-| [codex](https://www.github.com/openai/codex) | openai | 79.4k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 79.5k | Lightweight coding agent that runs in your terminal |
 | [union](https://www.github.com/unionlabs/union) | unionlabs | 74.1k | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. |
 | [alacritty](https://www.github.com/alacritty/alacritty) | alacritty | 63.8k | A cross-platform, OpenGL terminal emulator. |
 
@@ -61,11 +61,11 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [codex](https://www.github.com/openai/codex) | openai | 79.4k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 79.5k | Lightweight coding agent that runs in your terminal |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 57.4k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
-| [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 51.6k | Warp is an agentic development environment, born out of the terminal. |
+| [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 52.0k | Warp is an agentic development environment, born out of the terminal. |
 | [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 43.7k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
-| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 39.6k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 39.7k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 | [tabby](https://www.github.com/TabbyML/tabby) | TabbyML | 33.5k | Self-hosted AI coding assistant |
 | [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 31.3k | Browser automation CLI for AI agents |
 | [qdrant](https://www.github.com/qdrant/qdrant) | qdrant | 31.0k | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
