@@ -40,13 +40,13 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-05-04 10:18:31)
+## Rust Trending (2026-05-04 17:45:33)
 
 ### Top Trending Rust Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 189.9k | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. |
+| [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 190.0k | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. |
 | [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 113.5k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 112.5k | Empowering everyone to build reliable and efficient software. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 106.6k | A modern runtime for JavaScript and TypeScript. |
@@ -55,7 +55,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [zed](https://www.github.com/zed-industries/zed) | zed-industries | 81.6k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
 | [codex](https://www.github.com/openai/codex) | openai | 79.9k | Lightweight coding agent that runs in your terminal |
 | [union](https://www.github.com/unionlabs/union) | unionlabs | 74.1k | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. |
-| [alacritty](https://www.github.com/alacritty/alacritty) | alacritty | 63.8k | A cross-platform, OpenGL terminal emulator. |
+| [alacritty](https://www.github.com/alacritty/alacritty) | alacritty | 63.9k | A cross-platform, OpenGL terminal emulator. |
 
 ### Top Trending Rust Agent Repositories
 
@@ -63,11 +63,11 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 |------|-----------|-------|-------------|
 | [codex](https://www.github.com/openai/codex) | openai | 79.9k | Lightweight coding agent that runs in your terminal |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 57.4k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
-| [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 53.9k | Warp is an agentic development environment, born out of the terminal. |
-| [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 43.7k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
-| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 40.9k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 54.2k | Warp is an agentic development environment, born out of the terminal. |
+| [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 43.8k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 41.3k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 | [tabby](https://www.github.com/TabbyML/tabby) | TabbyML | 33.5k | Self-hosted AI coding assistant |
-| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 31.6k | Browser automation CLI for AI agents |
+| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 31.7k | Browser automation CLI for AI agents |
 | [qdrant](https://www.github.com/qdrant/qdrant) | qdrant | 31.0k | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
 | [zeroclaw](https://www.github.com/zeroclaw-labs/zeroclaw) | zeroclaw-labs | 31.0k | Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀 |
 | [rust-course](https://www.github.com/sunface/rust-course) | sunface | 30.3k | 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book  |
