@@ -40,7 +40,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-05-11 03:59:02)
+## Rust Trending (2026-05-11 11:29:57)
 
 ### Top Trending Rust Repositories
 
@@ -50,21 +50,21 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 113.9k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 112.7k | Empowering everyone to build reliable and efficient software. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 106.6k | A modern runtime for JavaScript and TypeScript. |
-| [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 106.4k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
+| [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 106.5k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
 | [uv](https://www.github.com/astral-sh/uv) | astral-sh | 84.7k | An extremely fast Python package and project manager, written in Rust. |
-| [zed](https://www.github.com/zed-industries/zed) | zed-industries | 82.4k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
-| [codex](https://www.github.com/openai/codex) | openai | 81.7k | Lightweight coding agent that runs in your terminal |
+| [zed](https://www.github.com/zed-industries/zed) | zed-industries | 82.5k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
+| [codex](https://www.github.com/openai/codex) | openai | 81.8k | Lightweight coding agent that runs in your terminal |
 | [union](https://www.github.com/unionlabs/union) | unionlabs | 74.1k | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. |
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 66.3k | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI. |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 66.9k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
 
 ### Top Trending Rust Agent Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [codex](https://www.github.com/openai/codex) | openai | 81.7k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 81.8k | Lightweight coding agent that runs in your terminal |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 57.5k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
-| [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 57.4k | Warp is an agentic development environment, born out of the terminal. |
-| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 45.7k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 57.5k | Warp is an agentic development environment, born out of the terminal. |
+| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 45.9k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 | [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 45.0k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 | [tabby](https://www.github.com/TabbyML/tabby) | TabbyML | 33.5k | Self-hosted AI coding assistant |
 | [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 32.6k | Browser automation CLI for AI agents |
