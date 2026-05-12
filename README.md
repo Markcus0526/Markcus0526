@@ -40,34 +40,34 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-05-12 03:41:52)
+## Rust Trending (2026-05-12 10:37:03)
 
 ### Top Trending Rust Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 191.1k | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. |
+| [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 191.2k | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. |
 | [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 114.0k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 112.7k | Empowering everyone to build reliable and efficient software. |
-| [deno](https://www.github.com/denoland/deno) | denoland | 106.6k | A modern runtime for JavaScript and TypeScript. |
+| [deno](https://www.github.com/denoland/deno) | denoland | 106.7k | A modern runtime for JavaScript and TypeScript. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 106.5k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
 | [uv](https://www.github.com/astral-sh/uv) | astral-sh | 84.8k | An extremely fast Python package and project manager, written in Rust. |
 | [zed](https://www.github.com/zed-industries/zed) | zed-industries | 82.5k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
-| [codex](https://www.github.com/openai/codex) | openai | 81.9k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 82.0k | Lightweight coding agent that runs in your terminal |
 | [union](https://www.github.com/unionlabs/union) | unionlabs | 74.1k | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. |
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 67.6k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 68.2k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
 
 ### Top Trending Rust Agent Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [codex](https://www.github.com/openai/codex) | openai | 81.9k | Lightweight coding agent that runs in your terminal |
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 67.6k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
-| [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 57.7k | Warp is an agentic development environment, born out of the terminal. |
+| [codex](https://www.github.com/openai/codex) | openai | 82.0k | Lightweight coding agent that runs in your terminal |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 68.2k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
+| [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 57.8k | Warp is an agentic development environment, born out of the terminal. |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 57.5k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
-| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 46.2k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
-| [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 45.0k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 46.4k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 45.1k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 | [tabby](https://www.github.com/TabbyML/tabby) | TabbyML | 33.5k | Self-hosted AI coding assistant |
-| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 32.7k | Browser automation CLI for AI agents |
+| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 32.8k | Browser automation CLI for AI agents |
 | [zeroclaw](https://www.github.com/zeroclaw-labs/zeroclaw) | zeroclaw-labs | 31.3k | Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀 |
-| [qdrant](https://www.github.com/qdrant/qdrant) | qdrant | 31.2k | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
+| [qdrant](https://www.github.com/qdrant/qdrant) | qdrant | 31.3k | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
