@@ -40,7 +40,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-05-13 10:34:51)
+## Rust Trending (2026-05-13 18:05:16)
 
 ### Top Trending Rust Repositories
 
@@ -51,21 +51,21 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 112.7k | Empowering everyone to build reliable and efficient software. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 106.7k | A modern runtime for JavaScript and TypeScript. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 106.6k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
-| [uv](https://www.github.com/astral-sh/uv) | astral-sh | 84.8k | An extremely fast Python package and project manager, written in Rust. |
-| [zed](https://www.github.com/zed-industries/zed) | zed-industries | 82.6k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
-| [codex](https://www.github.com/openai/codex) | openai | 82.3k | Lightweight coding agent that runs in your terminal |
+| [uv](https://www.github.com/astral-sh/uv) | astral-sh | 84.9k | An extremely fast Python package and project manager, written in Rust. |
+| [zed](https://www.github.com/zed-industries/zed) | zed-industries | 82.7k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
+| [codex](https://www.github.com/openai/codex) | openai | 82.4k | Lightweight coding agent that runs in your terminal |
 | [union](https://www.github.com/unionlabs/union) | unionlabs | 74.1k | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance. |
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 69.3k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 69.7k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
 
 ### Top Trending Rust Agent Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [codex](https://www.github.com/openai/codex) | openai | 82.3k | Lightweight coding agent that runs in your terminal |
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 69.3k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
-| [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 58.1k | Warp is an agentic development environment, born out of the terminal. |
+| [codex](https://www.github.com/openai/codex) | openai | 82.4k | Lightweight coding agent that runs in your terminal |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 69.7k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
+| [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 58.2k | Warp is an agentic development environment, born out of the terminal. |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 57.5k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
-| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 47.1k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 47.3k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 | [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 45.1k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 | [tabby](https://www.github.com/TabbyML/tabby) | TabbyML | 33.5k | Self-hosted AI coding assistant |
 | [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 32.9k | Browser automation CLI for AI agents |
