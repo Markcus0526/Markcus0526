@@ -40,7 +40,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-06-05 04:13:38)
+## Rust Trending (2026-06-05 11:32:16)
 
 ### Top Trending Rust Repositories
 
@@ -48,26 +48,26 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 |------|-----------|-------|-------------|
 | [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 193.3k | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. |
 | [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 115.6k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
-| [rust](https://www.github.com/rust-lang/rust) | rust-lang | 113.4k | Empowering everyone to build reliable and efficient software. |
+| [rust](https://www.github.com/rust-lang/rust) | rust-lang | 113.6k | Empowering everyone to build reliable and efficient software. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 107.5k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
-| [deno](https://www.github.com/denoland/deno) | denoland | 106.9k | A modern runtime for JavaScript and TypeScript. |
+| [deno](https://www.github.com/denoland/deno) | denoland | 107.0k | A modern runtime for JavaScript and TypeScript. |
 | [bun](https://www.github.com/oven-sh/bun) | oven-sh | 92.8k | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 91.9k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
-| [codex](https://www.github.com/openai/codex) | openai | 88.7k | Lightweight coding agent that runs in your terminal |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 92.3k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
+| [codex](https://www.github.com/openai/codex) | openai | 88.9k | Lightweight coding agent that runs in your terminal |
 | [uv](https://www.github.com/astral-sh/uv) | astral-sh | 86.0k | An extremely fast Python package and project manager, written in Rust. |
-| [zed](https://www.github.com/zed-industries/zed) | zed-industries | 84.5k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
+| [zed](https://www.github.com/zed-industries/zed) | zed-industries | 84.6k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
 
 ### Top Trending Rust Agent Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 91.9k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
-| [codex](https://www.github.com/openai/codex) | openai | 88.7k | Lightweight coding agent that runs in your terminal |
-| [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 61.0k | Warp is an agentic development environment, born out of the terminal. |
-| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 58.9k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
-| [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 57.9k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
-| [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 46.5k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
-| [CodeWhale](https://www.github.com/Hmbown/CodeWhale) | Hmbown | 37.1k | DeepSeek + MiMo coding agent in terminal |
-| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 35.2k | Browser automation CLI for AI agents |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 92.3k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
+| [codex](https://www.github.com/openai/codex) | openai | 88.9k | Lightweight coding agent that runs in your terminal |
+| [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 61.1k | Warp is an agentic development environment, born out of the terminal. |
+| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 59.1k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 58.0k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
+| [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 46.6k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [CodeWhale](https://www.github.com/Hmbown/CodeWhale) | Hmbown | 37.2k | DeepSeek + MiMo coding agent in terminal |
+| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 35.3k | Browser automation CLI for AI agents |
 | [tabby](https://www.github.com/TabbyML/tabby) | TabbyML | 33.6k | Self-hosted AI coding assistant |
 | [qdrant](https://www.github.com/qdrant/qdrant) | qdrant | 31.8k | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
