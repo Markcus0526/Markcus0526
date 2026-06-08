@@ -40,7 +40,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-06-07 17:23:42)
+## Rust Trending (2026-06-08 04:27:05)
 
 ### Top Trending Rust Repositories
 
@@ -51,9 +51,9 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 113.7k | Empowering everyone to build reliable and efficient software. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 107.6k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 107.0k | A modern runtime for JavaScript and TypeScript. |
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 94.1k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 94.4k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
 | [bun](https://www.github.com/oven-sh/bun) | oven-sh | 92.9k | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
-| [codex](https://www.github.com/openai/codex) | openai | 89.3k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 89.4k | Lightweight coding agent that runs in your terminal |
 | [uv](https://www.github.com/astral-sh/uv) | astral-sh | 86.1k | An extremely fast Python package and project manager, written in Rust. |
 | [zed](https://www.github.com/zed-industries/zed) | zed-industries | 84.7k | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
 
@@ -61,13 +61,13 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 94.1k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
-| [codex](https://www.github.com/openai/codex) | openai | 89.3k | Lightweight coding agent that runs in your terminal |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 94.4k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
+| [codex](https://www.github.com/openai/codex) | openai | 89.4k | Lightweight coding agent that runs in your terminal |
 | [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 61.2k | Warp is an agentic development environment, born out of the terminal. |
-| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 59.7k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 59.8k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 58.0k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
-| [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 47.3k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
-| [CodeWhale](https://www.github.com/Hmbown/CodeWhale) | Hmbown | 37.4k | DeepSeek + MiMo coding agent in terminal |
+| [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 47.6k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [CodeWhale](https://www.github.com/Hmbown/CodeWhale) | Hmbown | 37.5k | DeepSeek + MiMo coding agent in terminal |
 | [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 35.5k | Browser automation CLI for AI agents |
 | [tabby](https://www.github.com/TabbyML/tabby) | TabbyML | 33.6k | Self-hosted AI coding assistant |
 | [qdrant](https://www.github.com/qdrant/qdrant) | qdrant | 31.9k | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
