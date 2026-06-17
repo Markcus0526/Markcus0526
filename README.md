@@ -40,7 +40,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-06-17 12:20:50)
+## Rust Trending (2026-06-17 18:24:54)
 
 ### Top Trending Rust Repositories
 
@@ -48,10 +48,10 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 |------|-----------|-------|-------------|
 | [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 194.0k | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
 | [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 116.3k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
-| [rust](https://www.github.com/rust-lang/rust) | rust-lang | 114.0k | Empowering everyone to build reliable and efficient software. |
+| [rust](https://www.github.com/rust-lang/rust) | rust-lang | 113.9k | Empowering everyone to build reliable and efficient software. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 108.0k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
-| [deno](https://www.github.com/denoland/deno) | denoland | 107.2k | A modern runtime for JavaScript and TypeScript. |
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 103.2k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
+| [deno](https://www.github.com/denoland/deno) | denoland | 107.1k | A modern runtime for JavaScript and TypeScript. |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 103.4k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
 | [bun](https://www.github.com/oven-sh/bun) | oven-sh | 93.3k | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 | [codex](https://www.github.com/openai/codex) | openai | 91.7k | Lightweight coding agent that runs in your terminal |
 | [uv](https://www.github.com/astral-sh/uv) | astral-sh | 86.5k | An extremely fast Python package and project manager, written in Rust. |
@@ -62,10 +62,10 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
 | [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 194.0k | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 103.2k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 103.4k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
 | [codex](https://www.github.com/openai/codex) | openai | 91.7k | Lightweight coding agent that runs in your terminal |
 | [openinterpreter](https://www.github.com/openinterpreter/openinterpreter) | openinterpreter | 64.0k | A lightweight coding agent for open models like Deepseek, Kimi, and Qwen |
-| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 63.2k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 63.3k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 | [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 61.9k | Warp is an agentic development environment, born out of the terminal. |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 58.1k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
 | [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 49.7k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
