@@ -40,7 +40,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-06-19 18:02:32)
+## Rust Trending (2026-06-20 04:08:30)
 
 ### Top Trending Rust Repositories
 
@@ -51,7 +51,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 114.0k | Empowering everyone to build reliable and efficient software. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 108.1k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 107.2k | A modern runtime for JavaScript and TypeScript. |
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 104.7k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 104.8k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
 | [bun](https://www.github.com/oven-sh/bun) | oven-sh | 93.3k | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 | [codex](https://www.github.com/openai/codex) | openai | 92.2k | Lightweight coding agent that runs in your terminal |
 | [uv](https://www.github.com/astral-sh/uv) | astral-sh | 86.6k | An extremely fast Python package and project manager, written in Rust. |
@@ -62,12 +62,12 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
 | [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 194.1k | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 104.7k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 104.8k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
 | [codex](https://www.github.com/openai/codex) | openai | 92.2k | Lightweight coding agent that runs in your terminal |
 | [openinterpreter](https://www.github.com/openinterpreter/openinterpreter) | openinterpreter | 64.1k | A lightweight coding agent for open models like Deepseek, Kimi, and Qwen |
-| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 63.9k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
-| [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 62.0k | Warp is an agentic development environment, born out of the terminal. |
+| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 64.0k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 62.1k | Warp is an agentic development environment, born out of the terminal. |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 58.2k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
-| [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 49.8k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 49.9k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 | [CodeWhale](https://www.github.com/Hmbown/CodeWhale) | Hmbown | 38.7k | Open-source, community-driven agent harness |
 | [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 36.5k | Browser automation CLI for AI agents |
