@@ -40,7 +40,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-07-01 18:02:21)
+## Rust Trending (2026-07-02 03:58:59)
 
 ### Top Trending Rust Repositories
 
@@ -49,8 +49,8 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 194.5k | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
 | [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 117.5k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 114.2k | Empowering everyone to build reliable and efficient software. |
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 111.8k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
-| [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 108.5k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 112.0k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
+| [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 108.6k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 107.3k | A modern runtime for JavaScript and TypeScript. |
 | [codex](https://www.github.com/openai/codex) | openai | 94.9k | Lightweight coding agent that runs in your terminal |
 | [bun](https://www.github.com/oven-sh/bun) | oven-sh | 93.5k | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
@@ -62,12 +62,12 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
 | [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 194.5k | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 111.8k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 112.0k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
 | [codex](https://www.github.com/openai/codex) | openai | 94.9k | Lightweight coding agent that runs in your terminal |
-| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 67.6k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 67.7k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 | [openinterpreter](https://www.github.com/openinterpreter/openinterpreter) | openinterpreter | 64.2k | A lightweight coding agent for open models like Deepseek, Kimi, and Qwen |
 | [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 62.7k | Warp is an agentic development environment, born out of the terminal. |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 58.4k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
 | [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 50.5k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 | [CodeWhale](https://www.github.com/Hmbown/CodeWhale) | Hmbown | 39.3k | Open-source, community-driven agent harness |
-| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 37.6k | Browser automation CLI for AI agents |
+| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 37.7k | Browser automation CLI for AI agents |
