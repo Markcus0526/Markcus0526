@@ -40,7 +40,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-07-04 17:11:59)
+## Rust Trending (2026-07-05 03:54:11)
 
 ### Top Trending Rust Repositories
 
@@ -68,6 +68,6 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [openinterpreter](https://www.github.com/openinterpreter/openinterpreter) | openinterpreter | 64.3k | A lightweight coding agent for open models like Deepseek, Kimi, and Qwen |
 | [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 62.8k | Warp is an agentic development environment, born out of the terminal. |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 58.4k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
-| [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 50.6k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 50.7k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 | [CodeWhale](https://www.github.com/Hmbown/CodeWhale) | Hmbown | 39.4k | Open-source, community-driven agent harness |
 | [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 37.8k | Browser automation CLI for AI agents |
