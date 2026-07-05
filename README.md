@@ -40,16 +40,16 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-07-05 10:20:39)
+## Rust Trending (2026-07-05 17:17:02)
 
 ### Top Trending Rust Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
 | [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 194.6k | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
-| [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 117.6k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 117.7k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 114.3k | Empowering everyone to build reliable and efficient software. |
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 113.3k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 113.5k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 108.7k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 107.5k | A modern runtime for JavaScript and TypeScript. |
 | [codex](https://www.github.com/openai/codex) | openai | 95.6k | Lightweight coding agent that runs in your terminal |
@@ -62,7 +62,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
 | [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 194.6k | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 113.3k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 113.5k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
 | [codex](https://www.github.com/openai/codex) | openai | 95.6k | Lightweight coding agent that runs in your terminal |
 | [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 68.6k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 | [openinterpreter](https://www.github.com/openinterpreter/openinterpreter) | openinterpreter | 64.3k | A lightweight coding agent for open models like Deepseek, Kimi, and Qwen |
