@@ -1,6 +1,12 @@
 # 👨‍💻 Hi, I'm Markcus (@Markcus0526)
 
-**Discover your perfect home in our modern Development: Live, Grow, and Thrive...**
+### 🛠️ Need a Full-Stack Engineer to Build Your Product?
+I am available for freelance work, contract roles, and custom feature integration. **Hire me directly and bypass platform-level middle-men.**
+
+* 📱 **Telegram**: [Direct Message](https://t.me)
+* 💼 **LinkedIn**: [Professional Profile](https://linkedin.com)
+* 🌐 **Portfolio**: [Live Projects](https://github.io)
+* 💳 **Payments Accepted**: USDT / USDC / ETH / BTC / Invoices (No KYC Required)
 
 ---
 
