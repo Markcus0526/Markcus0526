@@ -3,9 +3,9 @@
 ### 🛠️ Need a Full-Stack Engineer to Build Your Product?
 I am available for freelance work, contract roles, and custom feature integration. **Hire me directly and bypass platform-level middle-men.**
 
-* 📱 **Telegram**: [Direct Message](https://t.me)
-* 💼 **LinkedIn**: [Professional Profile](https://linkedin.com)
-* 🌐 **Portfolio**: [Live Projects](https://github.io)
+* 📱 **Telegram**: [Direct Message](https://t.me/markcus0526)
+* 💼 **LinkedIn**: [Professional Profile](linkedin.com/in/markcus-han-467a13411)
+* 🌐 **Portfolio**: [Live Projects](https://markcus0526.github.io/mark-portfolio)
 * 💳 **Payments Accepted**: USDT / USDC / ETH / BTC / Invoices (No KYC Required)
 
 ---
