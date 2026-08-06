@@ -46,7 +46,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-08-05 17:44:41)
+## Rust Trending (2026-08-06 02:54:32)
 
 ### Top Trending Rust Repositories
 
@@ -58,9 +58,9 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 115.3k | Empowering everyone to build reliable and efficient software. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 109.9k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 108.2k | A modern runtime for JavaScript and TypeScript. |
-| [codex](https://www.github.com/openai/codex) | openai | 104.1k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 104.2k | Lightweight coding agent that runs in your terminal |
 | [bun](https://www.github.com/oven-sh/bun) | oven-sh | 95.3k | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
-| [RuView](https://www.github.com/ruvnet/RuView) | ruvnet | 88.6k | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [RuView](https://www.github.com/ruvnet/RuView) | ruvnet | 88.7k | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 | [uv](https://www.github.com/astral-sh/uv) | astral-sh | 88.4k | An extremely fast Python package and project manager, written in Rust. |
 
 ### Top Trending Rust Agent Repositories
@@ -69,7 +69,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 |------|-----------|-------|-------------|
 | [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 195.0k | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
 | [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 124.8k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io |
-| [codex](https://www.github.com/openai/codex) | openai | 104.1k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 104.2k | Lightweight coding agent that runs in your terminal |
 | [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 74.9k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 | [openinterpreter](https://www.github.com/openinterpreter/openinterpreter) | openinterpreter | 67.7k | A coding agent for open models like Kimi K3 |
 | [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 64.0k | Warp is an agentic development environment, born out of the terminal. |
