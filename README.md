@@ -46,14 +46,14 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-08-17 16:32:40)
+## Rust Trending (2026-08-18 01:26:13)
 
 ### Top Trending Rust Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
 | [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 195.1k | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 127.8k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 127.9k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io |
 | [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 121.1k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 115.5k | Empowering everyone to build reliable and efficient software. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 110.3k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
@@ -68,7 +68,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
 | [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 195.1k | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
-| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 127.8k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io |
+| [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 127.9k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io |
 | [codex](https://www.github.com/openai/codex) | openai | 106.5k | Lightweight coding agent that runs in your terminal |
 | [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 76.4k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 | [openinterpreter](https://www.github.com/openinterpreter/openinterpreter) | openinterpreter | 68.0k | A coding agent for open models like Kimi K3 |
