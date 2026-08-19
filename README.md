@@ -46,7 +46,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-08-18 16:36:15)
+## Rust Trending (2026-08-19 01:28:40)
 
 ### Top Trending Rust Repositories
 
@@ -60,7 +60,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [deno](https://www.github.com/denoland/deno) | denoland | 108.3k | A modern runtime for JavaScript and TypeScript. |
 | [codex](https://www.github.com/openai/codex) | openai | 106.7k | Lightweight coding agent that runs in your terminal |
 | [bun](https://www.github.com/oven-sh/bun) | oven-sh | 95.4k | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
-| [RuView](https://www.github.com/ruvnet/RuView) | ruvnet | 90.7k | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [RuView](https://www.github.com/ruvnet/RuView) | ruvnet | 90.8k | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 | [uv](https://www.github.com/astral-sh/uv) | astral-sh | 88.9k | An extremely fast Python package and project manager, written in Rust. |
 
 ### Top Trending Rust Agent Repositories
