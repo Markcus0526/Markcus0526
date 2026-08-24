@@ -46,7 +46,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-08-23 16:30:34)
+## Rust Trending (2026-08-24 01:38:28)
 
 ### Top Trending Rust Repositories
 
@@ -56,7 +56,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 129.0k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io |
 | [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 121.6k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 116.0k | Empowering everyone to build reliable and efficient software. |
-| [codex](https://www.github.com/openai/codex) | openai | 114.9k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 115.3k | Lightweight coding agent that runs in your terminal |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 110.5k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 108.3k | A modern runtime for JavaScript and TypeScript. |
 | [bun](https://www.github.com/oven-sh/bun) | oven-sh | 95.6k | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
@@ -69,8 +69,8 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 |------|-----------|-------|-------------|
 | [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 195.1k | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
 | [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 129.0k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io |
-| [codex](https://www.github.com/openai/codex) | openai | 114.9k | Lightweight coding agent that runs in your terminal |
-| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 77.1k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| [codex](https://www.github.com/openai/codex) | openai | 115.3k | Lightweight coding agent that runs in your terminal |
+| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 77.2k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 | [openinterpreter](https://www.github.com/openinterpreter/openinterpreter) | openinterpreter | 68.1k | A coding agent for open models like Kimi K3 |
 | [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 64.5k | Warp is an agentic development environment, born out of the terminal. |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 59.1k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
