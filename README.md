@@ -46,7 +46,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-09-07 14:06:59)
+## Rust Trending (2026-09-07 19:43:44)
 
 ### Top Trending Rust Repositories
 
@@ -70,7 +70,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 195.2k | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
 | [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 131.5k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io |
 | [codex](https://www.github.com/openai/codex) | openai | 122.2k | Lightweight coding agent that runs in your terminal |
-| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 79.2k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 79.3k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 | [openinterpreter](https://www.github.com/openinterpreter/openinterpreter) | openinterpreter | 68.3k | A coding agent for open models like Kimi K3 and GLM 5.3 |
 | [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 64.9k | Warp is an agentic development environment, born out of the terminal. |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 59.2k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
