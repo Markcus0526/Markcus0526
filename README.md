@@ -46,7 +46,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-09-30 14:46:26)
+## Rust Trending (2026-09-30 20:40:11)
 
 ### Top Trending Rust Repositories
 
@@ -56,10 +56,10 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [clash-verge-rev](https://www.github.com/clash-verge-rev/clash-verge-rev) | clash-verge-rev | 148.5k | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
 | [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 139.1k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io |
 | [codex](https://www.github.com/openai/codex) | openai | 127.4k | Lightweight coding agent that runs in your terminal |
-| [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 124.8k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
-| [rust](https://www.github.com/rust-lang/rust) | rust-lang | 119.3k | Empowering everyone to build reliable and efficient software. |
+| [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 124.9k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [rust](https://www.github.com/rust-lang/rust) | rust-lang | 119.4k | Empowering everyone to build reliable and efficient software. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 111.5k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
-| [deno](https://www.github.com/denoland/deno) | denoland | 108.6k | A modern runtime for JavaScript and TypeScript. |
+| [deno](https://www.github.com/denoland/deno) | denoland | 108.5k | A modern runtime for JavaScript and TypeScript. |
 | [bun](https://www.github.com/oven-sh/bun) | oven-sh | 96.1k | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 | [RuView](https://www.github.com/ruvnet/RuView) | ruvnet | 95.7k | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
