@@ -46,7 +46,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-10-19 15:23:46)
+## Rust Trending (2026-10-19 20:55:58)
 
 ### Top Trending Rust Repositories
 
@@ -71,7 +71,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 146.3k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io |
 | [codex](https://www.github.com/openai/codex) | openai | 129.9k | Lightweight coding agent that runs in your terminal |
 | [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 84.0k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
-| [impeccable](https://www.github.com/pbakaus/impeccable) | pbakaus | 83.0k | The design language that makes your AI harness better at design. |
+| [impeccable](https://www.github.com/pbakaus/impeccable) | pbakaus | 83.2k | The design language that makes your AI harness better at design. |
 | [openinterpreter](https://www.github.com/openinterpreter/openinterpreter) | openinterpreter | 68.6k | A coding agent for open models like Kimi K3 and GLM 5.3 |
 | [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 65.5k | Warp is an agentic development environment, born out of the terminal. |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 59.6k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
