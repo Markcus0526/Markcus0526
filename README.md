@@ -46,7 +46,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-10-23 13:13:51)
+## Rust Trending (2026-10-23 19:52:24)
 
 ### Top Trending Rust Repositories
 
@@ -70,10 +70,10 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 195.1k | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
 | [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 148.0k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io |
 | [codex](https://www.github.com/openai/codex) | openai | 130.6k | Lightweight coding agent that runs in your terminal |
-| [impeccable](https://www.github.com/pbakaus/impeccable) | pbakaus | 85.3k | The design language that makes your AI harness better at design. |
+| [impeccable](https://www.github.com/pbakaus/impeccable) | pbakaus | 85.4k | The design language that makes your AI harness better at design. |
 | [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 84.4k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
-| [openinterpreter](https://www.github.com/openinterpreter/openinterpreter) | openinterpreter | 68.6k | A coding agent for open models like Kimi K3 and GLM 5.3 |
-| [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 65.6k | Warp is an agentic development environment, born out of the terminal. |
+| [openinterpreter](https://www.github.com/openinterpreter/openinterpreter) | openinterpreter | 68.7k | A coding agent for open models like Kimi K3 and GLM 5.3 |
+| [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 65.7k | Warp is an agentic development environment, born out of the terminal. |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 59.6k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
 | [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 55.6k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 | [herdr](https://www.github.com/herdrdev/herdr) | herdrdev | 45.5k | the runtime your coding agents live on |
