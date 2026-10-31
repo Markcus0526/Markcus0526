@@ -46,34 +46,34 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-10-31 14:25:08)
+## Rust Trending (2026-10-31 19:48:07)
 
 ### Top Trending Rust Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
 | [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 195.0k | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
-| [clash-verge-rev](https://www.github.com/clash-verge-rev/clash-verge-rev) | clash-verge-rev | 155.3k | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
+| [clash-verge-rev](https://www.github.com/clash-verge-rev/clash-verge-rev) | clash-verge-rev | 155.4k | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
 | [cc-switch](https://www.github.com/farion1231/cc-switch) | farion1231 | 150.6k | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io |
-| [codex](https://www.github.com/openai/codex) | openai | 132.4k | Lightweight coding agent that runs in your terminal |
+| [codex](https://www.github.com/openai/codex) | openai | 132.5k | Lightweight coding agent that runs in your terminal |
 | [rustdesk](https://www.github.com/rustdesk/rustdesk) | rustdesk | 127.7k | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 120.9k | Empowering everyone to build reliable and efficient software. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 112.4k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 108.8k | A modern runtime for JavaScript and TypeScript. |
-| [RuView](https://www.github.com/ruvnet/RuView) | ruvnet | 101.8k | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
-| [impeccable](https://www.github.com/pbakaus/impeccable) | pbakaus | 97.8k | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
+| [RuView](https://www.github.com/ruvnet/RuView) | ruvnet | 101.9k | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [impeccable](https://www.github.com/pbakaus/impeccable) | pbakaus | 98.1k | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
 
 ### Top Trending Rust Agent Repositories
 
 | Name | Developer | Stars | Description |
 |------|-----------|-------|-------------|
 | [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 195.0k | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
-| [codex](https://www.github.com/openai/codex) | openai | 132.4k | Lightweight coding agent that runs in your terminal |
-| [impeccable](https://www.github.com/pbakaus/impeccable) | pbakaus | 97.8k | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
+| [codex](https://www.github.com/openai/codex) | openai | 132.5k | Lightweight coding agent that runs in your terminal |
+| [impeccable](https://www.github.com/pbakaus/impeccable) | pbakaus | 98.1k | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
 | [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 85.1k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 | [openinterpreter](https://www.github.com/openinterpreter/openinterpreter) | openinterpreter | 68.8k | A coding agent for open models like Kimi K3 and GLM 5.3 |
 | [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 65.8k | Warp is an agentic development environment, born out of the terminal. |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 59.7k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
 | [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 56.0k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
-| [herdr](https://www.github.com/herdrdev/herdr) | herdrdev | 47.0k | the runtime your coding agents live on |
+| [herdr](https://www.github.com/herdrdev/herdr) | herdrdev | 47.1k | the runtime your coding agents live on |
 | [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 45.0k | Browser automation CLI for AI agents |
