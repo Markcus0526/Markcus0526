@@ -46,7 +46,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 
 ---
 
-## Rust Trending (2026-11-07 20:01:05)
+## Rust Trending (2026-11-08 05:23:00)
 
 ### Top Trending Rust Repositories
 
@@ -60,8 +60,8 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 | [rust](https://www.github.com/rust-lang/rust) | rust-lang | 121.6k | Empowering everyone to build reliable and efficient software. |
 | [tauri](https://www.github.com/tauri-apps/tauri) | tauri-apps | 112.6k | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
 | [deno](https://www.github.com/denoland/deno) | denoland | 108.9k | A modern runtime for JavaScript and TypeScript. |
-| [impeccable](https://www.github.com/pbakaus/impeccable) | pbakaus | 105.4k | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
-| [RuView](https://www.github.com/ruvnet/RuView) | ruvnet | 102.8k | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [impeccable](https://www.github.com/pbakaus/impeccable) | pbakaus | 105.7k | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
+| [RuView](https://www.github.com/ruvnet/RuView) | ruvnet | 102.9k | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
 ### Top Trending Rust Agent Repositories
 
@@ -69,11 +69,11 @@ I am a **Full-Stack Engineer** passionate about building scalable, secure, and s
 |------|-----------|-------|-------------|
 | [claw-code](https://www.github.com/ultraworkers/claw-code) | ultraworkers | 194.9k | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. |
 | [codex](https://www.github.com/openai/codex) | openai | 133.6k | Lightweight coding agent that runs in your terminal |
-| [impeccable](https://www.github.com/pbakaus/impeccable) | pbakaus | 105.4k | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
-| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 85.8k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| [impeccable](https://www.github.com/pbakaus/impeccable) | pbakaus | 105.7k | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
+| [rtk](https://www.github.com/rtk-ai/rtk) | rtk-ai | 85.9k | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 | [openinterpreter](https://www.github.com/openinterpreter/openinterpreter) | openinterpreter | 68.8k | A coding agent for open models like Kimi K3 and GLM 5.3 |
 | [warp](https://www.github.com/warpdotdev/warp) | warpdotdev | 65.9k | Warp is an agentic development environment, born out of the terminal. |
 | [meilisearch](https://www.github.com/meilisearch/meilisearch) | meilisearch | 59.8k | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
 | [goose](https://www.github.com/aaif-goose/goose) | aaif-goose | 56.3k | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
-| [herdr](https://www.github.com/herdrdev/herdr) | herdrdev | 49.1k | the runtime your coding agents live on |
-| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 46.7k | Browser automation CLI for AI agents |
+| [herdr](https://www.github.com/herdrdev/herdr) | herdrdev | 49.2k | the runtime your coding agents live on |
+| [agent-browser](https://www.github.com/vercel-labs/agent-browser) | vercel-labs | 47.0k | Browser automation CLI for AI agents |
